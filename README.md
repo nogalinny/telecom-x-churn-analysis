@@ -17,5 +17,3 @@ Identificar padrões de churn em clientes de uma empresa de telecomunicações, 
 - Insights estratégicos para redução de churn
 
 ---
-
-## 📁 Estrutura do Projeto
