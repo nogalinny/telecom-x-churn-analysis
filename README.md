@@ -29,3 +29,9 @@ O projeto foi desenvolvido seguindo boas práticas de **Análise de Dados** e **
 
 ## 📂 Estrutura do Repositório
 
+
+### Conclusão
+
+O churn está associado principalmente a **menor tempo de permanência**, **maior cobrança mensal** e ao serviço **Fiber Optic**.  
+Esses fatores indicam maior risco de evasão nos primeiros meses de contrato e necessidade de atenção especial a clientes de maior ticket.
+
